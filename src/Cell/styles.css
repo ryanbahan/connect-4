@@ -1,0 +1,33 @@
+.cell {
+  width: 5rem;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #cd6133;
+}
+
+.circle {
+  border: solid 1px #cd6133;
+  background: white;
+  height: 80%;
+  width: 80%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.token {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.black {
+  background: black;
+}
+
+.red {
+  background: red;
+}
